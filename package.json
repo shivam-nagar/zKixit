@@ -1,0 +1,23 @@
+{
+  "name": "zkixit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-nagar/zKixit.git"
+  },
+  "author": "Shivam Nagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam-nagar/zKixit/issues"
+  },
+  "homepage": "https://github.com/shivam-nagar/zKixit#readme",
+  "dependencies": {
+    "circomlib": "^2.0.3",
+    "circomlibjs": "^0.1.2"
+  }
+}
